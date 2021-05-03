@@ -1,0 +1,23 @@
+.main {
+    border: 5px solid black;
+    width: 200px;
+    margin: 10px auto;
+    padding: 10px auto;
+    background-color: silver;
+}
+.main div {
+    text-align: center;
+}
+button {
+    height: 30px;
+    width: 30px;
+    margin: 2px;
+    background-color: blue;
+    color: white;
+}
+#clear {
+    width: 160px;
+}
+input {
+    height: 30px;
+}
