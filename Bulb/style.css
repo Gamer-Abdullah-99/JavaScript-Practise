@@ -1,0 +1,13 @@
+img {
+    width: 200px;
+    height: 270px;
+}
+button {
+    height: 30px;
+    word-spacing: 2px;
+    background-color:aqua;
+    margin: 10px auto;
+}
+.pic,.btn {
+    text-align: center;
+}
