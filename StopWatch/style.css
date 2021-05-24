@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    color: BLUE;
+    text-align: center;
+}
+.counter h1{
+    display: inline-block;
+    width: 100px;
+}
+button {
+    margin: 10px;
+    background-color: white;
+    color: blue;
+    padding: 10px;
+    font-size: large;
+}
+body div {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    
+}
+.lap div h1{
+    width: 100px;
+}
+.lap{
+    background-color: blue;
+    width: 700px;
+    margin: 10px auto;
+    color: red;
+    display: flex;
+    flex-direction: column;
+}
+
+.laps {
+    height: 50px;
+    width: 100% ;
+}
+
+.legend  h1{
+    margin: 18px;
+}
